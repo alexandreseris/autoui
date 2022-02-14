@@ -1,0 +1,6 @@
+__pycache__
+/notes.txt
+/dist
+/build
+*.egg-info
+/.eggs
